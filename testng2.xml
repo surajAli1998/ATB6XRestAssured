@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestNG Basic 2">
+    <test verbose="2" preserve-order="true"
+          name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured">
+        <classes>
+            <class name="com.apiautomation.testNG_day_22June2024.TestNGBasic2">
+                <methods>
+                    <include name="testMethod1"/>
+                    <include name="testMethod2"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

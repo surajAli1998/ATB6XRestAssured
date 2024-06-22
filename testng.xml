@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="ATB6XRestAssured">
+        <classes>
+            <class name="com.apiautomation.testNG_day_22June2024.TestNGBasic2">
+                <methods>
+                    <include name="testMethod2"/>
+                    <include name="testMethod1"/>
+                    <include name="testMethod3"/>
+                </methods>
+            </class>
+            <class name="com.apiautomation.testNG_day_22June2024.TestNGBasic1">
+                <methods>
+                    <include name="pingCheckPositive"/>
+                    <exclude name="pingCheckNegative"/>
+                    <include name="getRequest1"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

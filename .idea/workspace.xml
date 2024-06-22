@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee84a79-27ac-48f6-8893-06351c8b53dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_21June2024/BasicRA1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAnnotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAssertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGBasic1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGBasic2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNGAnnotations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,26 +40,89 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="BasicRA1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_21June2024.BasicRA1" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNGAnnotations.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_21June2024.*" />
+          <option name="PATTERN" value="com.apiautomation.testNG_day_22June2024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_22June2024" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_22June2024.TestNGAssertions" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNGAssertions.testCase1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apiautomation.testNG_day_22June2024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_22June2024" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_22June2024.TestNGAssertions" />
+      <option name="METHOD_NAME" value="testCase1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicRA1" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml" />
+        <item itemvalue="TestNG.TestNGAssertions" />
+        <item itemvalue="TestNG.TestNGAssertions.testCase1" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng2.xml" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.178">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getRequest1"
+                time="0.001"
+                classname="com.apiautomation.testNG_day_22June2024.TestNGBasic1">
+            </testcase>
+            <testcase
+                name="pingCheckPositive"
+                time="3.177"
+                classname="com.apiautomation.testNG_day_22June2024.TestNGBasic1">
+            </testcase>
+</testsuite>
