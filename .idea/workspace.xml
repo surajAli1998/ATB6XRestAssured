@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee84a79-27ac-48f6-8893-06351c8b53dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAnnotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAssertions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGBasic1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGBasic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNGAnnotations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RestfulBookerCRUDRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/DELETE/DeleteBooking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/FullCrudE2E/RestfulBookerCRUD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/GET/BDD_style/GetBDD1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/GET/NonBDD_style/GetNonBDD1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/GET/NonBDD_style/GetRequestRestfulBooker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/PATCH/PartialBookingUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/POST/CreateBookingBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/POST/CreateBookingNonBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/PUT/UpdateBookingNonBDD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testngPOST.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAnnotations_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAnnotations_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAssertions_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAssertions_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +50,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml">
+  <component name="RunManager" selected="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml">
+    <configuration name="CreateBookingNonBDD.createBookingNonBdd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apiautomation.testNG_day_23June2024.POST.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_23June2024.POST" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_23June2024.POST.CreateBookingNonBDD" />
+      <option name="METHOD_NAME" value="createBookingNonBdd" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RestfulBookerCRUDRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testNGAnnotations.xml" />
@@ -61,36 +103,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6XRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6XRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestNGAssertions" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DeleteBooking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apiautomation.testNG_day_22June2024.*" />
+          <option name="PATTERN" value="com.apiautomation.testNG_day_23June2024.DELETE.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_22June2024" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_22June2024.TestNGAssertions" />
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_23June2024.DELETE" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_23June2024.DELETE.DeleteBooking" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -98,18 +120,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestNGAssertions.testCase1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="PartialBookingUpdate" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apiautomation.testNG_day_22June2024.*" />
+          <option name="PATTERN" value="com.apiautomation.testNG_day_23June2024.PATCH.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_22June2024" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_22June2024.TestNGAssertions" />
-      <option name="METHOD_NAME" value="testCase1" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_23June2024.PATCH" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_23June2024.PATCH.PartialBookingUpdate" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -118,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" />
         <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testNGAnnotations.xml" />
-        <item itemvalue="TestNG.TestNGAssertions" />
-        <item itemvalue="TestNG.TestNGAssertions.testCase1" />
-        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng.xml" />
-        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/testng2.xml" />
+        <item itemvalue="TestNG.DeleteBooking" />
+        <item itemvalue="TestNG.CreateBookingNonBDD.createBookingNonBdd" />
+        <item itemvalue="TestNG.PartialBookingUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -136,5 +157,10 @@
       <updated>1718983365213</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATB6XRestAssured$GetRequestRestfulBooker_getSingleBookingNegative.ic" NAME="GetRequestRestfulBooker.getSingleBookingNegative Coverage Results" MODIFIED="1719149318294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.apiautomation.testNG_day_23June2024.GET.NonBDD_style.*</FILTER>
+    </SUITE>
   </component>
 </project>

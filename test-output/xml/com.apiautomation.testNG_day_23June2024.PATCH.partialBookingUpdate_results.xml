@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.457">
+    <properties></properties>
+
+
+
+            <testcase
+                name="partialUpdateBooking"
+                time="3.457"
+                classname="com.apiautomation.testNG_day_23June2024.PATCH.PartialBookingUpdate">
+            </testcase>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Restful Booker CRUD Operations">
+    <test verbose="2" preserve-order="true" name="ATB6XRestAssured">
+        <classes>
+            <class name="com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD">
+                <methods>
+                    <include name="fullUpdateBooking"/>
+                    <include name="deleteBooking"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
