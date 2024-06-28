@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.104">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test2"
+                time="0.004"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo">
+            </testcase>
+            <testcase
+                name="test1"
+                time="0.100"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo">
+            </testcase>
+</testsuite>

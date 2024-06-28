@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.111">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCase4"
+                time="0.089"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase0"
+                time="0.003"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase3"
+                time="0.003"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase5"
+                time="0.010"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase2"
+                time="0.002"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase1"
+                time="0.004"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+</testsuite>
