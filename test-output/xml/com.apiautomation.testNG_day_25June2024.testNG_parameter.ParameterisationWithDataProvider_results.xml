@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.113">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCase1"
+                time="0.004"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
+            </testcase>
+            <testcase
+                name="testCase1"
+                time="0.002"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
+            </testcase>
+            <testcase
+                name="testCase1"
+                time="0.107"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
+            </testcase>
+</testsuite>

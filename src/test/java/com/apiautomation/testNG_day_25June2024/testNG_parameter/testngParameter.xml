@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="ATB6XRestAssured">
+        <parameter name="username" value="suraj"> </parameter>
+        <parameter name="password" value="pass123"> </parameter>
+        <classes>
+            <class name="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationFromXML">
+            </class>
+        </classes>
+    </test>
+</suite>

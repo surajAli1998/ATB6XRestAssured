@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.094">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getBookingId"
+                time="0.004"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_dependson.TestNGDependsOnGroups">
+            </testcase>
+            <testcase
+                name="putRequest"
+                time="0.004"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_dependson.TestNGDependsOnGroups">
+            </testcase>
+            <testcase
+                name="getToken"
+                time="0.086"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_dependson.TestNGDependsOnGroups">
+            </testcase>
+</testsuite>
