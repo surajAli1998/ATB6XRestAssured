@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ATB6XRestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3.576">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validateResponseSchemaTest"
+                time="3.576"
+                classname="com.apiautomation.day_27June2024.json_schema_validation.JsonSchemaValidation">
+            </testcase>
+</testsuite>

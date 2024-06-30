@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="11.238">
+           time="8.583">
     <properties></properties>
 
 
 
             <testcase
                 name="deleteBooking"
-                time="5.421"
+                time="3.247"
                 classname="com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD">
             </testcase>
             <testcase
                 name="fullUpdateBooking"
-                time="5.817"
+                time="5.336"
                 classname="com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD">
             </testcase>
 </testsuite>
