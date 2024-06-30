@@ -1,0 +1,11 @@
+{
+  "firstname" : "Suraj",
+  "lastname" : "Ali",
+  "totalprice" : 4656,
+  "depositpaid" : true,
+  "bookingdates" : {
+    "checkin" : "2023-01-12",
+    "checkout" : "2023-06-12"
+  },
+  "additionalneeds" : "Dinner"
+}

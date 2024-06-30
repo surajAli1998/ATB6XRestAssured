@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee84a79-27ac-48f6-8893-06351c8b53dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/PayloadUsingMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/gson/deserialization/Deserialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/gson/serialization/BookingData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/gson/serialization/BookingDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/gson/serialization/BookingResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/gson/serialization/CreateBooking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/json_schema_validation/JsonSchemaValidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/schema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/fetching_payload_from_file/FetchingPayloadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/bookingData.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +56,7 @@
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.JsonSchemaValidation">
+  <component name="RunManager" selected="TestNG.FetchingPayloadFromFile">
     <configuration name="CreateBooking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <extension name="coverage">
@@ -119,6 +109,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FetchingPayloadFromFile" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apiautomation.day_27June2024.fetching_payload_from_file.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.fetching_payload_from_file" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.fetching_payload_from_file.FetchingPayloadFromFile" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="JsonSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
       <extension name="coverage">
@@ -136,30 +143,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PayloadUsingMap" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.PayloadUsingMap" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.FetchingPayloadFromFile" />
         <item itemvalue="TestNG.JsonSchemaValidation" />
         <item itemvalue="TestNG.Deserialization" />
         <item itemvalue="TestNG.CreateBooking" />
         <item itemvalue="TestNG.CreateBooking.createBookingTest" />
-        <item itemvalue="TestNG.PayloadUsingMap" />
       </list>
     </recent_temporary>
   </component>
