@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee84a79-27ac-48f6-8893-06351c8b53dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/day_27June2024/fetching_payload_from_file/FetchingPayloadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/bookingData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/ParallelRunner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/ParallelRunner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testNG_paralleRun.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_parameter",
+    "last_opened_file_path": "D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -46,97 +54,61 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_misc_concepts\parallelrun" />
+      <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured" />
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_day_25June2024\testNG_parameter" />
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_day_25June2024\testNG_listeners" />
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_day_25June2024\testNG_groups" />
-      <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_day_25June2024\testNG_groups_priorities" />
-      <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FetchingPayloadFromFile">
-    <configuration name="CreateBooking" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.gson.serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.gson.serialization" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.gson.serialization.CreateBooking" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/RestfulBookerCRUDRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CreateBooking.createBookingTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.gson.serialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.gson.serialization" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.gson.serialization.CreateBooking" />
-      <option name="METHOD_NAME" value="createBookingTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Deserialization" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.gson.deserialization.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.gson.deserialization" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.gson.deserialization.Deserialization" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FetchingPayloadFromFile" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.fetching_payload_from_file.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.fetching_payload_from_file" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.fetching_payload_from_file.FetchingPayloadFromFile" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JsonSchemaValidation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.apiautomation.day_27June2024.json_schema_validation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.apiautomation.day_27June2024.json_schema_validation" />
-      <option name="MAIN_CLASS_NAME" value="com.apiautomation.day_27June2024.json_schema_validation.JsonSchemaValidation" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FetchingPayloadFromFile" />
-        <item itemvalue="TestNG.JsonSchemaValidation" />
-        <item itemvalue="TestNG.Deserialization" />
-        <item itemvalue="TestNG.CreateBooking" />
-        <item itemvalue="TestNG.CreateBooking.createBookingTest" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" />
       </list>
     </recent_temporary>
   </component>

@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.104">
+           time="0.094">
     <properties></properties>
 
 
 
             <testcase
-                name="test2"
-                time="0.004"
+                name="test1"
+                time="0.091"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo">
             </testcase>
             <testcase
-                name="test1"
-                time="0.100"
+                name="test2"
+                time="0.003"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo">
             </testcase>
 </testsuite>
