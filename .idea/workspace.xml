@@ -5,17 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bee84a79-27ac-48f6-8893-06351c8b53dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/ParallelRunner1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/ParallelRunner2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNG_paralleRun.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAssertions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_22June2024/TestNGAssertions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/DELETE/DeleteBooking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/DELETE/DeleteBooking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/POST/CreateBookingBDD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_23June2024/POST/CreateBookingBDD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_dependson/TestNGDependsOnGroups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_dependson/TestNGDependsOnGroups.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_groups.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test0_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.FullCrudE2E.RestfulBookerCRUD_results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_listeners.TestNGListenerDemo_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/html/suite0_test1_results.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/html/suite0_test1_results.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAnnotations_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAnnotations_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAssertions_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGAssertions_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGBasic1_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGBasic1_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGBasic2_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_22June2024.TestNGBasic2_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.Demo1_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.Demo1_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.Demo2_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_23June2024.Demo2_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_dependson.TestNGDependsOnGroups_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_dependson.TestNGDependsOnGroups_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_groups.TestNGBasic4_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_groups.TestNGBasic4_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1_results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner2_results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/xml/com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner2_results.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,18 +50,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\TheTestingAcademy\ATB6X\ApiTesting\ATB6XRestAssured\ATB6XRestAssured\src\test\java\com\apiautomation\testNG_misc_concepts\parallelrun" />
@@ -65,19 +75,9 @@
     </key>
   </component>
   <component name="RunManager" selected="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml">
-    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_parameter/testngParameter.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ATB6XRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/RestfulBookerCRUDRunner.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ATB6XRestAssured" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_parameter/testngParameter.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
@@ -115,13 +115,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ParameterisationWithDataProvider" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATB6XRestAssured" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apiautomation.testNG_day_25June2024.testNG_parameter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.apiautomation.testNG_day_25June2024.testNG_parameter" />
+      <option name="MAIN_CLASS_NAME" value="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_methods.xml" />
         <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_test.xml" />
         <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_misc_concepts/parallelrun/testNG_paralleRun_classes.xml" />
-        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/RestfulBookerCRUDRunner.xml" />
-        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_listeners/testngListeners.xml" />
+        <item itemvalue="TestNG.D:/TheTestingAcademy/ATB6X/ApiTesting/ATB6XRestAssured/ATB6XRestAssured/src/test/java/com/apiautomation/testNG_day_25June2024/testNG_parameter/testngParameter.xml" />
+        <item itemvalue="TestNG.ParameterisationWithDataProvider" />
       </list>
     </recent_temporary>
   </component>

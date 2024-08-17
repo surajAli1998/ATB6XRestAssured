@@ -4,39 +4,39 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.389">
+           time="0.353">
     <properties></properties>
 
 
 
             <testcase
-                name="testMethod2PR1"
-                time="0.117"
-                classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
-            </testcase>
-            <testcase
-                name="testMethod5PR1"
-                time="0.005"
-                classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
-            </testcase>
-            <testcase
                 name="testMethod1PR1"
-                time="0.129"
+                time="0.109"
                 classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
             </testcase>
             <testcase
                 name="testMethod4PR1"
-                time="0.016"
+                time="0.008"
                 classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
             </testcase>
             <testcase
-                name="testMethod3PR1"
-                time="0.115"
+                name="testMethod2PR1"
+                time="0.112"
                 classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
             </testcase>
             <testcase
                 name="testMethod6PR1"
-                time="0.007"
+                time="0.011"
+                classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
+            </testcase>
+            <testcase
+                name="testMethod3PR1"
+                time="0.110"
+                classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
+            </testcase>
+            <testcase
+                name="testMethod5PR1"
+                time="0.003"
                 classname="com.apiautomation.testNG_misc_concepts.parallelrun.ParallelRunner1">
             </testcase>
 </testsuite>

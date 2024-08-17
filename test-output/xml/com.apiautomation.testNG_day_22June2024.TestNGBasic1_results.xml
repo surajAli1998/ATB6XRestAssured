@@ -4,19 +4,19 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="3.178">
+           time="4.008">
     <properties></properties>
 
 
 
             <testcase
                 name="getRequest1"
-                time="0.001"
+                time="0.004"
                 classname="com.apiautomation.testNG_day_22June2024.TestNGBasic1">
             </testcase>
             <testcase
                 name="pingCheckPositive"
-                time="3.177"
+                time="4.004"
                 classname="com.apiautomation.testNG_day_22June2024.TestNGBasic1">
             </testcase>
 </testsuite>

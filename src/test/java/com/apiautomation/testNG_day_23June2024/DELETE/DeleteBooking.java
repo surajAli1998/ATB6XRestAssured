@@ -30,4 +30,5 @@ public class DeleteBooking {
         responseValidate = response.then().log().all();
         responseValidate.statusCode(201);
     }
+
 }

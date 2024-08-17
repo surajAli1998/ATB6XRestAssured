@@ -11,12 +11,12 @@
 
             <testcase
                 name="testMethod1"
-                time="0.004"
+                time="0.002"
                 classname="com.apiautomation.testNG_day_22June2024.TestNGBasic2">
             </testcase>
             <testcase
                 name="testMethod2"
-                time="0.015"
+                time="0.017"
                 classname="com.apiautomation.testNG_day_22June2024.TestNGBasic2">
             </testcase>
 </testsuite>

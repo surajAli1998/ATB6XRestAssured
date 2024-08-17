@@ -11,8 +11,9 @@ public class TestNGAssertions {
     public void case1(){
         SoftAssert soft = new SoftAssert();
         soft.assertEquals("suraj","suraj","Not equal");
-        System.out.println("End of test case 1");
         soft.assertAll();
+        System.out.println("End of test case 1");
+
     }
 
     @Test

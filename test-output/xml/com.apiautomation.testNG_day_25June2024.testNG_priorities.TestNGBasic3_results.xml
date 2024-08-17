@@ -4,18 +4,23 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.111">
+           time="0.150">
     <properties></properties>
 
 
 
             <testcase
-                name="testCase4"
-                time="0.089"
+                name="testCase5"
+                time="0.003"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
             </testcase>
             <testcase
-                name="testCase0"
+                name="testCase4"
+                time="0.137"
+                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
+            </testcase>
+            <testcase
+                name="testCase2"
                 time="0.003"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
             </testcase>
@@ -25,18 +30,13 @@
                 classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
             </testcase>
             <testcase
-                name="testCase5"
-                time="0.010"
-                classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
-            </testcase>
-            <testcase
-                name="testCase2"
+                name="testCase0"
                 time="0.002"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
             </testcase>
             <testcase
                 name="testCase1"
-                time="0.004"
+                time="0.002"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_priorities.TestNGBasic3">
             </testcase>
 </testsuite>

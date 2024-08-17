@@ -4,24 +4,24 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.113">
+           time="0.108">
     <properties></properties>
 
 
 
             <testcase
                 name="testCase1"
-                time="0.004"
+                time="0.003"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
             </testcase>
             <testcase
                 name="testCase1"
-                time="0.002"
+                time="0.102"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
             </testcase>
             <testcase
                 name="testCase1"
-                time="0.107"
+                time="0.003"
                 classname="com.apiautomation.testNG_day_25June2024.testNG_parameter.ParameterisationWithDataProvider">
             </testcase>
 </testsuite>

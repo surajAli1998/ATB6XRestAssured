@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="0.082">
+           time="0.075">
     <properties></properties>
 
 
 
             <testcase
                 name="demo1TestCase"
-                time="0.082"
+                time="0.075"
                 classname="com.apiautomation.testNG_day_23June2024.Demo1">
             </testcase>
 </testsuite>

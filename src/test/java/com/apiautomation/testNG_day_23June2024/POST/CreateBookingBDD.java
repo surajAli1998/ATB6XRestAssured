@@ -30,4 +30,5 @@ public class CreateBookingBDD {
                 .then().log().all()
                 .statusCode(200);
     }
+
 }

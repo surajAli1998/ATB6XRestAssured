@@ -8,12 +8,12 @@ public class TestNGDependsOnGroups {
         System.out.println("Token");
     }
 
-    @Test(groups = {"init"})
+    @Test
     public void getBookingId(){
         System.out.println("Booking ID");
     }
 
-    @Test(dependsOnGroups = {"init.*"})
+    @Test(dependsOnGroups = {"init"})
     public void putRequest(){
         System.out.println("PUT request");
     }
